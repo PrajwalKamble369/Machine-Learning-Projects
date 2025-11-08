@@ -1,0 +1,37 @@
+# Core data manipulation and analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Boosting and Bagging
+xgboost
+lightgbm
+catboost
+mlxtend
+
+# Hierarchical Clustering + Dendrograms
+scipy
+
+# Dimensionality Reduction (optional but useful for cluster visualization)
+umap-learn
+sklearn-pandas
+
+# Deploying models (if Flask app)
+flask
+
+# For saving/loading models
+joblib
+
+# For better logging and debugging
+tqdm
+
+# For Notebook support (optional)
+jupyterlab
+ipykernel
